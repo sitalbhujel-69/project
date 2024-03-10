@@ -161,12 +161,12 @@ div.msg{
     }
     .score{
         width: 90%;
-        font-size: 20px;
+        font-size: 14px;
     }
     #msg{
         width: 90%;
         height: 75%;
-        font-size: 20px;
+        font-size: 15px;
         padding: 5px;
     }
 }
